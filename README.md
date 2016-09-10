@@ -1,6 +1,6 @@
 # GaCD-project
 
-- This project is my submission for the Courera Getting and Cleaning Data final project
+This project is my submission for the Courera Getting and Cleaning Data final project
 
 - It gets data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 - wich full description is avaliable in http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
