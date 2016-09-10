@@ -1,6 +1,8 @@
 # GaCD-project
 
-This project is my submission for the Courera Getting and Cleaning Data final project
+GaCD just stands for Getting and Cleaning data.
+This project is my submission for the John Hopkin's Getting and Cleaning Data final project, from Coursera.
+The objective is to gather and organize the data collected in the "Human Activity Recognition Using Smartphones Data Set " research, building a tidy data set, ready for analisys.
 
 - It gets data from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 - wich full description is avaliable in http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
